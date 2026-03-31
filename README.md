@@ -6,13 +6,13 @@ Aplicação de calculadora desenvolvida com React, focada em boas práticas de c
 
 ## 🚀 Demo ao vivo
 
-👉 ([https://react-calculator-celio.vercel.app/])
+👉 (adicione aqui após deploy)
 
 ---
 
 ## 📸 Preview
 
-![preview](https://raw.githubusercontent.com/celiocarneirocrivellar-cmd/react-calculator/main/preview.png)
+![preview](./preview.png)
 
 ---
 
@@ -66,7 +66,7 @@ src/
 ## ⚙️ Como rodar
 
 ```bash
-git clone https://github.com/celiocarneirocrivellar-cmd/calculadora.git
+git clone https://github.com/seu-usuario/seu-repo.git
 cd calculadora
 npm install
 npm start
