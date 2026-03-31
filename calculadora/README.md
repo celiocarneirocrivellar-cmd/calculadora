@@ -66,7 +66,7 @@ src/
 ## ⚙️ Como rodar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
+git clone https://github.com/celiocarneirocrivellar-cmd/calculadora.git
 cd calculadora
 npm install
 npm start
