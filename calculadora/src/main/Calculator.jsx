@@ -22,7 +22,7 @@ export default class Calculator extends Component {
         this.clearMemory = this.clearMemory.bind(this);
         this.setOperation = this.setOperation.bind(this);
         this.addDigit = this.addDigit.bind(this);
-    }
+    };
     
     clearMemory() {
         this.setState({ ...initialState });
@@ -102,5 +102,5 @@ export default class Calculator extends Component {
                 <Button label="=" click={this.setOperation} operation />
             </div>
         )
-    }
-}
+    };
+};
