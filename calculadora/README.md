@@ -6,7 +6,7 @@ Aplicação de calculadora desenvolvida com React, focada em boas práticas de c
 
 ## 🚀 Demo ao vivo
 
-👉 (adicione aqui após deploy)
+👉 ([https://react-calculator-celio.vercel.app/])
 
 ---
 
