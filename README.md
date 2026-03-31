@@ -12,7 +12,7 @@ Aplicação de calculadora desenvolvida com React, focada em boas práticas de c
 
 ## 📸 Preview
 
-![preview](![preview](https://raw.githubusercontent.com/celiocarneirocrivellar-cmd/react-calculator/main/preview.png))
+![preview](https://raw.githubusercontent.com/celiocarneirocrivellar-cmd/react-calculator/main/preview.png)
 
 ---
 
