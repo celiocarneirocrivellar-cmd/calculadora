@@ -1,36 +1,85 @@
 # 🧮 React Calculator
 
-Uma calculadora moderna desenvolvida com React, com foco em componentização e lógica de operações.
+Aplicação de calculadora desenvolvida com React, focada em boas práticas de componentização, organização de código e lógica de operações matemáticas.
 
-## 🚀 Deploy
+---
 
-🔗 https://react-calculator-celio.vercel.app/
+## 🚀 Demo ao vivo
+
+👉 ([https://react-calculator-celio.vercel.app/])
+
+---
 
 ## 📸 Preview
 
 ![preview](./preview.png)
 
+---
+
 ## 🛠️ Tecnologias
 
 * React
-* JavaScript
-* CSS
+* JavaScript (ES6+)
+* CSS3
+* HTML5
 
-## ⚙️ Funcionalidades
+---
 
-* Soma, subtração, multiplicação e divisão
-* Botão AC
-* Interface estilo calculadora real
+## 📦 Funcionalidades
 
-## ▶️ Rodar o projeto
+* Operações básicas (+, -, *, /)
+* Suporte a números decimais
+* Botão AC (reset)
+* Interface inspirada em calculadoras reais
+
+---
+
+## 🧠 Conceitos aplicados
+
+* Componentização
+* State management
+* Props
+* Manipulação de eventos
+* Separação de responsabilidades
+
+---
+
+## 📂 Estrutura
 
 ```bash
-git clone https://github.com/seu-usuario/react-calculator.git
-cd react-calculator
+src/
+├── components/
+│   ├── Button.jsx
+│   ├── Button.css
+│   ├── Display.jsx
+│   └── Display.css
+├── main/
+│   ├── Calculator.jsx
+│   └── Calculator.css
+├── fonts/
+├── App.js
+└── index.js
+```
+
+---
+
+## ⚙️ Como rodar
+
+```bash
+git clone https://github.com/celiocarneirocrivellar-cmd/calculadora.git
+cd calculadora
 npm install
 npm start
 ```
 
+---
+
+## 🚀 Deploy
+
+Hospedado na Vercel
+
+---
+
 ## 👨‍💻 Autor
 
-Celio Carneiro 🚀
+Celio Rezende Carneiro Crivellar
